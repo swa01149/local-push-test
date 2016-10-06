@@ -1,5 +1,8 @@
+application: testphp-project
+version: 1
 runtime: php55
 api_version: 1
+threadsafe: safe
 
 handlers:
 - url: /.*
